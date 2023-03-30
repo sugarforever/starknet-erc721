@@ -51,6 +51,7 @@ We can download the copy of https://github.com/OpenZeppelin/cairo-contracts/blob
 
 ## Declare
 
+As we are using cairo v0 contract, --deprecated option is required to make the `declare` work.
 ```
 @ > starknet declare --contract build/erc721.json --deprecated
 ```
