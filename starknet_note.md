@@ -14,7 +14,7 @@
 ## Create a New Account
 
 ```
-@ > @ > starknet new_account
+@ > starknet new_account
 Account address: 0x036aba3e15486bd1cd336acc147db2163fb1d92d1a93d77857d985981da9b645
 Public key: 0x03d9953bcb7dec9528691b09c2b69f995fd867ef49b6d2b9a535b612a586cd6a
 Move the appropriate amount of funds to the account, and then deploy the account
